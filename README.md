@@ -11,7 +11,7 @@ My experience spans various industries, allowing me to work with diverse data fl
 I'm always eager to learn more and apply innovative techniques to solve problems and drive business insights.
 
 * 🌍  I'm based in São Paulo
-* 🧠  I'm learning DBT to enhance my data engineering workflows
+* 🧠  I'm learning GenAI and AI Engineering to enhance my data engineering workflows
 * 🤝  I'm open to collaborating on environmental and social projects
 * ⚡  Gamer at heart, playing is my favorite hobby!
 
