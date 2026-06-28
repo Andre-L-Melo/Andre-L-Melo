@@ -4,7 +4,7 @@ Hi 👋 My name is André Melo
 Data Engineer
 -------------
 
-I am a dedicated Data Engineer with over 4 years of experience in designing and optimizing data pipelines. With a strong background in both software engineering and data engineering, I have developed my skills in tools such as Airflow, Spark, Python, and Databricks to build consistent and reliable data products. 
+I am a dedicated Data Engineer with over 5 years of experience in designing and optimizing data pipelines. With a strong background in both software engineering and data engineering, I have developed my skills in tools such as Airflow, Spark, Python, and Databricks to build consistent and reliable data products. 
 
 My experience spans various industries, allowing me to work with diverse data flows, from batch to streaming pipelines. I have also implemented data governance best practices, managed infrastructure costs, and monitored pipelines to ensure optimal performance. 
 
